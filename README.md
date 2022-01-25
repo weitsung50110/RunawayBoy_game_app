@@ -10,5 +10,5 @@ This is a game I created in Unity which I used C# to produce this game app.
 ## Playing scene
 ![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/3.jpg)
 ## Google play store
-I've produce this game in Google play store. If you guys who are interested in this game that you can search "少年逃亡中" in google play store.
+I've produced this game on the Google play store. If you guys are interested in this game you can search "少年逃亡中" in google play store.
 ![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/4.jpg)
