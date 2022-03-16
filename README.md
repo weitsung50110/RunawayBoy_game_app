@@ -13,6 +13,15 @@ When you defeat all the monsters that you will see a coin on the road, and if yo
 ![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/2.jpg)
 ## Playing scene
 ![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/3.jpg)
+## Transportation area
+![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/6.jpg)
+![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/7.jpg)
+## Big christimas pig
+Big Christmas pig is a boss that can bite your ass, so you need to handle it carefully.
+
+There are two giant bells here, and they will drop down at any minute, so you need to dodge the attack from the giant ball.
+![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/8.jpg)
+![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/9.jpg)
 ## Eat the coin
 If you eat the coin, the cute girl will show up and bring you two option buttons.
 ![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/5.jpg)
