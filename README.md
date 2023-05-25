@@ -8,7 +8,7 @@ When you defeat all the monsters that you will see a coin on the road, and if yo
 ## Video
 * This video was uploaded on youtube, welcome to watch it.
 
-[![Watch the video](https://github.com/weitsung50110/TextToSpeech_dictionary/blob/master/github_images/video_pic1.png)](https://www.youtube.com/watch?v=vAAcT1U9pr4&t=192s&ab_channel=%E5%B4%B4%E5%B4%B4)
+[![Watch the video](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/少年逃亡中APP.png)](https://www.youtube.com/watch?v=vAAcT1U9pr4&t=192s&ab_channel=%E5%B4%B4%E5%B4%B4)
 
 ## Main page in mobile game
 ![](https://raw.githubusercontent.com/weitsung50110/Runaway_game/master/github_images/0.jpg)
